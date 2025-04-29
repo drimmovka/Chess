@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1692712417 source:c:\users\username\desktop\chess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"stb_image.h"
+	"stb_easy_font.h"
+	<mmsystem.h>
+	"back.h"
+
+1675018027 c:\users\username\desktop\chess\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1675018027 c:\users\username\desktop\chess\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1692643716 c:\users\username\desktop\chess\back.h
+
+1692868608 source:c:\users\username\desktop\chess\back.c
+	<stdio.h>
+	<stdlib.h>
+	"back.h"
+
